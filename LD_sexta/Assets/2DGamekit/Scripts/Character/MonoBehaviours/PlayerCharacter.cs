@@ -387,7 +387,7 @@ namespace Gamekit2D
         {
             bool faceLeft = PlayerInput.Instance.Horizontal.Value < 0f;
             bool faceRight = PlayerInput.Instance.Horizontal.Value > 0f;
-            
+
             if (faceLeft)
             {
                 spriteRenderer.flipX = !spriteOriginallyFacesLeft;
