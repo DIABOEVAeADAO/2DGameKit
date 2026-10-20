@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: ec77f7ae405a57b44bde179524710740
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -66,9 +66,6 @@ PlayerSettings:
   useOSAutorotation: 1
   use32BitDisplayBuffer: 1
   preserveFramebufferAlpha: 0
-  adjustIOSFPSUsingThermalState: 1
-  thermalStateSeriousIOSFPS: 30
-  thermalStateCriticalIOSFPS: 15
   disableDepthAndStencilBuffers: 0
   androidStartInFullscreen: 1
   androidRenderOutsideSafeArea: 1
@@ -1045,7 +1042,7 @@ PlayerSettings:
   cloudProjectId: 90a49bc9-92d0-4530-a8fa-9acf63ceff15
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer-2D
+  projectName: LD_sexta
   organizationId: felipesemacento
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
