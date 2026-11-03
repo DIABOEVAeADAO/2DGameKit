@@ -9,6 +9,7 @@ public class VoltarAoMenu : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            Debug.Log("Entrou");
             SceneManager.LoadScene(nomeDaCenaDoMenu);
         }
     }
